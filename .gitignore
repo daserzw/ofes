@@ -1,0 +1,23 @@
+# emacs
+*~
+\#*\#
+
+# vi
+*.swp
+
+# Compiled python modules
+*.pyc
+
+# Tests artifacts
+.cache
+__pycache__
+
+# Python egg
+*.egg-info
+
+# SQLite
+*.db
+
+# Venv
+
+venv
